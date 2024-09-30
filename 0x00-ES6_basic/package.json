@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2"
+  },
+  "dependencies": {
+    "glob": "^9.3.5",
+    "lru-cache": "^11.0.1"
+  }
+}
